@@ -47,31 +47,31 @@ button {
 .image-container {
     display: flex;
     justify-content: space-between;
-    margin: 20px 0; /* Add margin as needed */
+    margin: 20px 0; 
 }
 
 .image-container img {
     max-height: 200px;
-    width: calc(33.33% - 10px); /* Adjust margin if needed */
+    width: calc(33.33% - 10px); 
     height: auto;
-    margin-right: 10px; /* Adjust spacing between images */
+    margin-right: 10px; 
 }
 
-/* Adjust styles for smaller screens */
+
 @media screen and (max-width: 768px) {
     .image-container {
         flex-wrap: wrap;
     }
 
     .image-container img {
-        width: calc(50% - 10px); /* Two images per row */
-        margin-bottom: 10px; /* Adjust vertical spacing */
+        width: calc(50% - 10px); 
+        margin-bottom: 10px; 
     }
 }
 
 .container {
     margin: 20px;
-    margin-bottom: 100px; /* Add margin to avoid overlap with footer */
+    margin-bottom: 100px; 
 }
 
 h1 {

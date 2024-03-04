@@ -41,8 +41,8 @@ To run the website locally, follow these steps:
 
 ## Preview
 
-![Homepage](preview/homepage.png)
-![Products Section](preview/products.png)
+![Homepage](https://github.com/mueezbaig/GreenWebDesign/blob/main/Web_page1.png)
+![](https://github.com/mueezbaig/GreenWebDesign/blob/main/Web_page2.png)
 
 ## Contributing
 
